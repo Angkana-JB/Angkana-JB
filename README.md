@@ -6,7 +6,7 @@ Junior Developer
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [angkana.dokput@gmail.com](mailto:angkana.dokput@gmail.com)
-* 🧠  I'm learning .NET Framework , .Net Core , Restful API
+* 🧠  I'm learning .NET Framework , .Net Core , Restful API ,Flutter(.dart)
 
 ### Skills
 
